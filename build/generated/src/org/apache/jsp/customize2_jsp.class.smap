@@ -1,0 +1,18 @@
+SMAP
+customize2_jsp.java
+JSP
+*S JSP
+*F
++ 0 customize2.jsp
+customize2.jsp
+*L
+5,8:44
+13:52,3
+14,28:55
+42,17:84
+58,6:101
+64,2:107,3
+66,3:113
+69:116,3
+70,14:119
+*E
